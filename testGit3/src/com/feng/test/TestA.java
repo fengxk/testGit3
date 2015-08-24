@@ -7,7 +7,7 @@ public class TestA {
 	 */
 	public static void main(String[] args) {
 		String ss="123";
-
+		String ab="test";
 	}
 
 }
