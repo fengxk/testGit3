@@ -8,6 +8,8 @@ public class TestA {
 	public static void main(String[] args) {
 		String ss="bbb";
 
+		String ab="test";
+
 	}
 
 }
